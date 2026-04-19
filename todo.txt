@@ -1,0 +1,3 @@
+Task 1: Learn Git
+Task 2: Practice daily
+Task 3: Build project
